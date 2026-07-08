@@ -1,44 +1,58 @@
-# vCard - Personal portfolio
+Ansh Aggarwal | Data Analyst Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Welcome to my personal portfolio website! This portfolio showcases my skills, projects, certifications, and experience as an aspiring Data Analyst.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+🚀 Live Website
 
-## Demo
+Coming Soon (Vercel Deployment)
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+📌 About
 
-## Prerequisites
+This portfolio highlights my journey in data analytics and includes:
 
-Before you begin, ensure you have met the following requirements:
+📊 Interactive Data Analytics Projects
+📈 Power BI Dashboards
+🗄️ SQL Projects
+📑 Excel Dashboards
+🐍 Python for Data Analysis
+💼 Internship Experience
+📜 Certifications
+📬 Contact Information
+🛠️ Built With
+HTML5
+CSS3
+JavaScript
+Responsive Design
+📂 Featured Projects
+🚖 Ola Data Analysis Dashboard
+🏥 Papollo Healthcare Dashboard
+🛒 Amazon Sales Dashboard
+📸 Preview
+Desktop
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing vCard
 
-To install **vCard**, follow these steps:
 
-Linux and macOS:
+Mobile
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
 
-Windows:
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
 
-## Contact
+📬 Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/ansh-aggarwal-2643492b4
+💻 GitHub: https://github.com/ansh21563
+⚙️ Run Locally
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+Clone the repository:
 
-## License
+git clone https://github.com/ansh21563/ansh-portfolio-second.git
 
-MIT
+Open index.html in your preferred browser.
+
+⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub.
+
+📄 License
+
+This project is licensed under the MIT License.
